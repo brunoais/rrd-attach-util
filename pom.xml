@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rrd.tools.attach</groupId>
 	<artifactId>rrd-attach-util</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>rrd-attach-util</name>
 	<description>Utilities for working with Sun/Oracle JVM attach API implementations</description>
 	<scm>
