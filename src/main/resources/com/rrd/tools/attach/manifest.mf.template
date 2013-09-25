@@ -1,0 +1,5 @@
+Main-Class: ${agentClass}
+Agent-Class: ${agentClass}
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: ${agentClass}
