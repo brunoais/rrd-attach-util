@@ -23,9 +23,9 @@
 		</dependency>
 	</dependencies>
 	<distributionManagement>
-		<site>
-			<id>googlecode-rrd-attach-utilr</id>
+		<repository>
+			<id>googlecode-rrd-attach-util</id>
 			<url>scm:git:https://ProfessorEugene@code.google.com/p/rrd-attach-util.repo/</url>
-		</site>
+		</repository>
 	</distributionManagement>
 </project>
