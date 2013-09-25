@@ -25,7 +25,7 @@
 	<distributionManagement>
 		<repository>
 			<id>googlecode-rrd-attach-util</id>
-			<url>scm:git:https://ProfessorEugene@code.google.com/p/rrd-attach-util.repo/</url>
+			<url>file:///tmp/rrd-attach-util-repo</url>			
 		</repository>
 	</distributionManagement>
 </project>
