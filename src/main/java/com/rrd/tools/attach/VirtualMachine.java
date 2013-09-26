@@ -97,8 +97,7 @@ public class VirtualMachine {
 					vm.detach();
 				}
 			} catch (Exception e) {
-				/* swallow */
-				e.printStackTrace();
+				/* swallow */				
 			}
 		}
 		return null;
